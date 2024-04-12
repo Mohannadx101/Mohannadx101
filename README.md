@@ -1,5 +1,6 @@
 # 🛠️ Mohannad Abdallah
 
+**`Software Developer (Developer/Creator/Cybersecurity)`**
 Welcome to my GitHub profile! I'm passionate about computers, coding, machine learning, and cybersecurity.
 
 I'm currently studying Computer Science and diving deep into C++.
