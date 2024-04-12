@@ -1,23 +1,17 @@
-   # 🛠️  Mohannad Abdallah
-   <body>
-    <div class="container">
-      
-        <p>Welcome to my GitHub profile! I'm passionate about computers, coding, machine learning, and cybersecurity.</p>
-        <p>I'm currently studying Computer Science and diving deep into C++.</p>
-        <p>Here are some of the technologies I'm familiar with:</p>
-        <ul class="contact-list">
-            <li>C++</li>
-            <li>JavaScript</li>
-            <li>Python</li>
-            <li>MySQL</li>
-            <li>Linux</li>
-            <li>Cybersecurity</li>
-        </ul>
-        <h2>📫 How to reach me:</h2>
-        <ul class="contact-list">
-            <li>Email: <a href="mailto:Mohannadx101@gmail.com">Mohannadx101@gmail.com</a></li>
-            <li>GitHub: <a href="https://github.com/Mohannadx101">Mohannadx101</a></li>
-        </ul>
-    </div>
-</body>
+# 🛠️ Mohannad Abdallah
 
+Welcome to my GitHub profile! I'm passionate about computers, coding, machine learning, and cybersecurity.
+
+I'm currently studying Computer Science and diving deep into C++.
+
+Here are some of the technologies I'm familiar with:
+- C++
+- JavaScript
+- Python
+- MySQL
+- Linux
+- Cybersecurity
+
+## 📫 How to reach me:
+- Email: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
+- GitHub: [Mohannadx101](https://github.com/Mohannadx101)
