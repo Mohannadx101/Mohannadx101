@@ -26,6 +26,7 @@ I'm currently studying Computer Science and diving deep into C++.
 ### 📊 Stats
 
 ![Mohannad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&size_weight=0.5&count_weight=0.5)
 
 
 ## 📫 How to reach me:
