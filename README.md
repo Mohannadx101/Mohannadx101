@@ -1,7 +1,7 @@
    # 🛠️  Mohannad Abdallah
    <body>
     <div class="container">
-        <h1>👋 Hi, I’m Mohannad</h1>
+      
         <p>Welcome to my GitHub profile! I'm passionate about computers, coding, machine learning, and cybersecurity.</p>
         <p>I'm currently studying Computer Science and diving deep into C++.</p>
         <p>Here are some of the technologies I'm familiar with:</p>
