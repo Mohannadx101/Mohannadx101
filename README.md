@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+    # 🛠️ Mohannad Abdallah
+    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
@@ -23,7 +24,6 @@
         <ul class="contact-list">
             <li>Email: <a href="mailto:Mohannadx101@gmail.com">Mohannadx101@gmail.com</a></li>
             <li>GitHub: <a href="https://github.com/Mohannadx101">Mohannadx101</a></li>
-            <!-- Add more contact info if needed -->
         </ul>
     </div>
 </body>
