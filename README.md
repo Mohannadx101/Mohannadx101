@@ -22,7 +22,7 @@
         <h2>📫 How to reach me:</h2>
         <ul class="contact-list">
             <li>Email: <a href="mailto:Mohannadx101@gmail.com">Mohannadx101@gmail.com</a></li>
-            <li>GitHub: <a href="https://github.com/YourGitHubUsername">YourGitHubUsername</a></li>
+            <li>GitHub: <a href="https://github.com/Mohannadx101">Mohannadx101</a></li>
             <!-- Add more contact info if needed -->
         </ul>
     </div>
