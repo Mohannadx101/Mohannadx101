@@ -9,7 +9,7 @@ Currently pursuing a degree in **Computer Science**, with a deep focus on **C++,
 ---
 
 ### 🧰 Languages & Tools  
-💻 **Languages**: C++, Python, JavaScript, HTML, CSS  
+💻 **Languages**: C++, Java, Python, JavaScript, HTML, CSS  
 ⚡ **Technologies**: Node.js, Git, Linux, Bash  
 🔐 **Cybersecurity**: Ethical Hacking, OSINT  
 
@@ -28,9 +28,9 @@ Currently pursuing a degree in **Computer Science**, with a deep focus on **C++,
 ---
 
 ## 📫 Connect with Me  
-📩 **Email**: [ Mohannadx101@gmail.com ](mailto:Mohannadx101@gmail.com)  
-🚀 **GitHub**: [ Mohannadx101 ](https://github.com/Mohannadx101)  
-🔗 **LinkedIn**: [ LinkedIn ](https://www.linkedin.com/in/mohannad-abdallah-3571552a2)
-🏆 **LeetCode**: [ LeetCode ](https://leetcode.com/u/mohannadx101/) 
+📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)  
+🚀 **GitHub**: [Mohannadx101](https://github.com/Mohannadx101)  
+🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannad-abdallah-3571552a2/)  
+🏆 **LeetCode**: [Mohannadx101](https://leetcode.com/u/mohannadx101/)  
 
 ---
