@@ -1,13 +1,17 @@
 # 🛠️ Mohannad Abdallah
 
-**`Software Developer (Developer/Creator/Cybersecurity)`**
+**`Software Engineer | AI & Cybersecurity Enthusiast`**
 
+Welcome to my GitHub profile! I'm passionate about **coding, machine learning, cybersecurity, and open-source development**.
 
-Welcome to my GitHub profile! I'm passionate about computers, coding, machine learning, and cybersecurity.
+Currently pursuing a degree in **Computer Science**, with a deep focus on **C++, Java, and Software Engineering**.
 
-I'm currently studying Computer Science and diving deep into C++.
+---
 
-### 🧰 Languages and Tools
+### 🧰 Languages & Tools  
+💻 **Languages**: C++, Python, JavaScript, HTML, CSS  
+⚡ **Technologies**: Node.js, Git, Linux, Bash  
+🔐 **Cybersecurity**: Ethical Hacking, OSINT  
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -21,10 +25,12 @@ I'm currently studying Computer Science and diving deep into C++.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+---
 
+## 📫 Connect with Me  
+📩 **Email**: [ Mohannadx101@gmail.com ](mailto:Mohannadx101@gmail.com)  
+🚀 **GitHub**: [ Mohannadx101 ](https://github.com/Mohannadx101)  
+🔗 **LinkedIn**: [ LinkedIn ](https://www.linkedin.com/in/mohannad-abdallah-3571552a2)
+🏆 **LeetCode**: [ LeetCode ](https://leetcode.com/u/mohannadx101/) 
 
-
-## 📫 How to reach me:
-- Email: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
-- GitHub: [Mohannadx101](https://github.com/Mohannadx101)
+---
