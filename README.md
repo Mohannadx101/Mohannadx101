@@ -1,36 +1,44 @@
-# 🛠️ Mohannad Abdallah
+# 👨‍💻 Mohannad Abdallah
+### Software Engineer | Computer Science Student
 
-**`Software Engineer | AI & Cybersecurity Enthusiast`**
+I'm a CS student passionate about building scalable software and efficient algorithms. I focus on backend development, cloud infrastructure, and mastering low-level concepts.
 
-Welcome to my GitHub profile! I'm passionate about **coding, machine learning, cybersecurity, and open-source development**.
-
-Currently pursuing a degree in **Computer Science**, with a deep focus on **C++, Java, and Software Engineering**.
-
----
-
-### 🧰 Languages & Tools  
-💻 **Languages**: C++, Java, Python, JavaScript, HTML, CSS  
-⚡ **Technologies**: Node.js, Git, Linux, Bash  
-🔐 **Cybersecurity**: Ethical Hacking, OSINT  
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+- 🔭 **Focusing on:** Competitive programming (CP).
+- 👯 **Looking to collaborate on:** Open Source C++ or Java projects.
 
 ---
 
-## 📫 Connect with Me  
-📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)  
-🚀 **GitHub**: [X](https://x.com/mom0dev)  
-🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannadabdallahdev/)  
-🏆 **Codeforces**: [Mohannadx101](https://codeforces.com/profile/mohannadabdallah)  
+### 🛠️ Languages & Technologies
+
+**Core Stack**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Web & Cloud**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 📫 Connect with Me
+📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
+🚀 **Twitter/X**: [@mom0dev](https://x.com/mom0dev)
+🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannadabdallahdev/)
+🏆 **Codeforces**: [Mohannadx101](https://codeforces.com/profile/mohannadabdallah)
