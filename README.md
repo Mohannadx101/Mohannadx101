@@ -29,8 +29,8 @@ Currently pursuing a degree in **Computer Science**, with a deep focus on **C++,
 
 ## 📫 Connect with Me  
 📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)  
-🚀 **GitHub**: [Mohannadx101](https://github.com/Mohannadx101)  
-🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannad-abdallah-3571552a2/)  
-🏆 **LeetCode**: [Mohannadx101](https://leetcode.com/u/mohannadx101/)  
+🚀 **GitHub**: [X](https://x.com/mom0dev)  
+🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannadabdallahdev/)  
+🏆 **Codeforces**: [Mohannadx101](https://codeforces.com/profile/mohannadabdallah)  
 
 ---
