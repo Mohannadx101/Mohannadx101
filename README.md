@@ -29,9 +29,11 @@ I'm a CS student passionate about building scalable software and efficient algor
 
 ---
 
-## 📫 Connect with Me
-🌐 **Website**: [momodev.me](https://momodev.me/)
-📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
-🚀 **Twitter/X**: [@mom0dev](https://x.com/mom0dev)
-🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannadabdallahdev/)
-🏆 **Codeforces**: [Mohannadx101](https://codeforces.com/profile/mohannadabdallah)
+### 📫 Connect with Me
+<p align="left">
+<a href="https://momodev.me/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-momodev.me-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="momodev.me" /></a>
+<a href="https://www.linkedin.com/in/mohannadabdallahdev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Mohannad_Abdallah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohannadabdallahdev" /></a>
+<a href="mailto:Mohannadx101@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-Mohannadx101-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mohannadx101" /></a>
+<a href="https://x.com/mom0dev" target="blank"><img align="center" src="https://img.shields.io/badge/X-@mom0dev-000000?style=for-the-badge&logo=x&logoColor=white" alt="mom0dev" /></a>
+<a href="https://codeforces.com/profile/mohannadabdallah" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-Mohannadx101-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Mohannadx101" /></a>
+</p>
