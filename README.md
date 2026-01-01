@@ -30,14 +30,15 @@ I'm a CS student passionate about building scalable software and efficient algor
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=dracula" alt="Mohannad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
+🌐 **Website**: [momodev.me](https://momodev.me/)
 📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
 🚀 **Twitter/X**: [@mom0dev](https://x.com/mom0dev)
 🔗 **LinkedIn**: [Mohannad Abdallah](https://www.linkedin.com/in/mohannadabdallahdev/)
