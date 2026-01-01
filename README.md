@@ -29,14 +29,6 @@ I'm a CS student passionate about building scalable software and efficient algor
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Mohannadx101&theme=dracula&hide_border=true" alt="Mohannad's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect with Me
 🌐 **Website**: [momodev.me](https://momodev.me/)
 📩 **Email**: [Mohannadx101@gmail.com](mailto:Mohannadx101@gmail.com)
