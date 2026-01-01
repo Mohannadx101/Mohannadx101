@@ -31,8 +31,8 @@ I'm a CS student passionate about building scalable software and efficient algor
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=dracula" alt="Mohannad's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohannadx101&theme=dracula&hide_border=true" alt="Mohannad's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannadx101&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
