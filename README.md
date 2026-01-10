@@ -51,17 +51,6 @@ const mohannad = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohannadx101&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohannadx101&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 ### ⚽ [ElClasico - Tournament Management System](https://github.com/Mohannadx101/ElClasico)
