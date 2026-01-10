@@ -54,9 +54,20 @@ const mohannad = {
 ## 🏆 Featured Projects
 
 ### ⚽ [ElClasico - Tournament Management System](https://github.com/Mohannadx101/ElClasico)
-Full-stack MERN application for managing football tournaments with real-time scoring and team management.
+Full-stack MERN application for managing football tournaments with real-time scoring, team management, and interactive games.
 
 **Tech:** React 19, Node.js, Express, MongoDB, Jest
+
+### 🤖 [RCJE-Team-ResQ - RoboCup Rescue Robot](https://github.com/Mohannadx101/RCJE-Team-ResQ)
+Competition-ready robot controller for RoboCup Junior Rescue Simulation. Achieved **Top 5** placement in RoboCup Junior Egypt!
+
+**Features:**
+- Advanced navigation with LIDAR obstacle avoidance
+- OpenCV-powered victim detection (H/S/U markers)
+- Hazard identification (black tiles, swamps, chemical symbols)
+- Dynamic checkpoint system with floating wall recovery
+
+**Tech:** Python 3.10, OpenCV, NumPy, Webots 2023b, Erebus V24.0.0
 
 ---
 
